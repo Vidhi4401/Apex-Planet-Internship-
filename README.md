@@ -1,4 +1,4 @@
-# Task 1 Recipe Web Page 
+# Task 1 : Recipe Web Page 
 This is a simple, responsive HTML webpage showcasing a Berry Banana Smoothie Recipe.
 # Features :
 Clean and minimal layout.
